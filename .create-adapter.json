@@ -2,7 +2,7 @@
     "cli": true,
     "target": "directory",
     "adapterName": "alpha-ess",
-    "title": "Alpha ESS",
+    "title": "Alpha ESS dude2k",
     "description": "Read and write data from and to Alpha ESS systems.",
     "keywords": ["photovoltaik"],
     "expert": "no",
