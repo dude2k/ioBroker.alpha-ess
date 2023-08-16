@@ -53,7 +53,7 @@
     },
     "intervalRealtimedata": {
       "sm": 5,
-      "min": 10,
+      "min": 1,
       "type": "number",
       "label": "Interval to read realtime data",
       "newLine": false,
